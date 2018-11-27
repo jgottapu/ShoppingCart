@@ -1,0 +1,10 @@
+This is a maven project. After cloning the project run 'maven clean install' to compile.
+
+Notes:
+=====
+
+A cart can have multiple entries.
+There can be multiple cart entries for the same product.
+A cart can optionally have discounts added for products during initialisation.
+A product can have multiple types of discounts on offer.
+Each cart entry is for a product with one or more as its quantity.
